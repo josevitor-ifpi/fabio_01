@@ -1,4 +1,5 @@
 # fabio_01
+
 Primeira lista de um total de 9 listas disponibilizadas durante a realização da disciplina de Algoritmo
 no curso Tecnológo em Análise e Desenvolvimento de Sistemas no IFPI.
 
